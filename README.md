@@ -1,7 +1,15 @@
-1. List: https://monosnap.com/file/gMX6DvsPgiUiCvdZDPqXMTGn0W4ZDM
+1. List
 
-2. Get contact: https://monosnap.com/file/A3doH7RdEVx4uaMbdUe77hV4YnaJBU
+![Image alt](https://github.com/hellblazer98/node.js-hw-1/raw/main/screenshots/list.png)
 
-3. Add: https://monosnap.com/file/I8TwBLUqyX0mHlr8TGzjrRuD67wS9e
+2. Get contact
 
-4. Remove: https://monosnap.com/file/eGjmXyobZbZagaP4qTiOEUaoKZNDFO
+![Image alt](https://github.com/hellblazer98/node.js-hw-1/raw/main/screenshots/contact.png)
+
+3. Add
+
+![Image alt](https://github.com/hellblazer98/node.js-hw-1/raw/main/screenshots/add.png)
+
+4. Remove
+
+![Image alt](https://github.com/hellblazer98/node.js-hw-1/raw/main/screenshots/remove.png)
